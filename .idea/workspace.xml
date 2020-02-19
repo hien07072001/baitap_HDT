@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c9fc51a-7526-4271-9ddb-8e9b7be1ba5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XyS1CmNssrpWqu5kHRYQmewNZy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCircle" />
+      <module name="Access modifier" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCircle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c9fc51a-7526-4271-9ddb-8e9b7be1ba5e" name="Default Changelist" comment="" />
+      <created>1582016623973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582016623973</updated>
+      <workItem from="1582016625401" duration="586000" />
+      <workItem from="1582017394810" duration="8000" />
+      <workItem from="1582017536048" duration="2000" />
+      <workItem from="1582017565172" duration="909000" />
+      <workItem from="1582018668469" duration="84000" />
+      <workItem from="1582018781778" duration="48000" />
+      <workItem from="1582018898016" duration="79000" />
+      <workItem from="1582019014676" duration="140000" />
+      <workItem from="1582019355154" duration="230000" />
+      <workItem from="1582019616654" duration="2300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="885" height="170" key="GridCell.Tab.0.bottom" timestamp="1582021291860">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="885" height="170" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1582021291860" />
+    <state width="885" height="170" key="GridCell.Tab.0.center" timestamp="1582021291859">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="885" height="170" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1582021291859" />
+    <state width="885" height="170" key="GridCell.Tab.0.left" timestamp="1582021291859">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="885" height="170" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1582021291859" />
+    <state width="885" height="170" key="GridCell.Tab.0.right" timestamp="1582021291860">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="885" height="170" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1582021291860" />
+    <state width="885" height="212" key="GridCell.Tab.1.bottom" timestamp="1582020469898">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="885" height="212" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1582020469898" />
+    <state width="885" height="212" key="GridCell.Tab.1.center" timestamp="1582020469897">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="885" height="212" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1582020469897" />
+    <state width="885" height="212" key="GridCell.Tab.1.left" timestamp="1582020469897">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="885" height="212" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1582020469897" />
+    <state width="885" height="212" key="GridCell.Tab.1.right" timestamp="1582020469898">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="885" height="212" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1582020469898" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TestCircle.java</url>
+          <line>1</line>
+          <properties class="TestCircle" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
